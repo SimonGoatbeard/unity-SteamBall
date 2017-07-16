@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7c064ca64bcb6844d953217620ff329a
+timeCreated: 1436726432
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - scoreText: {instanceID: 0}
+  - kuleczka: {fileID: 149890, guid: 168624e369b63aa419b5f175114a814c, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
